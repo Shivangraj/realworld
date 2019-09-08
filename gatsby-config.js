@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Shivang RAj - Everything You Need`,
+    siteTitleAlt: `ShivangRAj - Everything you need`,
   },
   plugins: [
     {
@@ -21,8 +21,8 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Shivang RAj`,
-        description: `Shivang RAj`,
+        short_name: `Shivang`,
+        description: `ShivangRAj - Everything you need`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
