@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `ShivangRAj - Everything you need`,
+    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
   },
   plugins: [
     {
@@ -21,8 +21,8 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Shivang`,
-        description: `ShivangRAj - Everything you need`,
+        short_name: `Cara`,
+        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
