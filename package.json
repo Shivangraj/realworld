@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "Shivang raj",
-  "description": "Shivang raj",
+  "name": "Shivang",
+  "description": "Shivang RAj - Everything you need ",
   "version": "0.0.6",
-  "author": "Shivang <Siagshivang@gmail.com>",
+  "author": "Shivang <siagshivang@gmail.com>",
   "license": "MIT",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "realworld",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
